@@ -1,0 +1,2 @@
+encrypted_message = b'gAAAAABmqKU-rspIsB6XtXl65DOB5x0UzmfMGhNN8myzwqO9SJOQk8QcYmBDyCu0TbCiO400U3yTA3-6FBp0AIT88M-smFkOJQ=='
+key = b'dUpqdk1ydHF6VGtpRHplWDE0RnRieldISFZZMVJlRWdIalZKa0ZoakN0ST0='
